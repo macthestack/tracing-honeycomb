@@ -14,7 +14,7 @@ readme = "README.md"
 tracing = "0.1.12"
 tracing-core = "0.1.9"
 tracing-distributed =  { path = "../tracing-distributed" , version = "0.2.0"}
-libhoney-rust = "0.1.3"
+libhoney-rust = { git = "https://github.com/macthestack/libhoney-rust" }
 rand = "0.7"
 chrono = "0.4.9"
 
